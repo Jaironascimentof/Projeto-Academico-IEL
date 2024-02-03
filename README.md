@@ -1,12 +1,12 @@
 # Sistema de Solicitação de Ordens de Serviço aos Ferramenteiros.
-  Este é um projeto acadêmico desenvolvido como parte de uma Jornada de Aprendizagem promovida pela instituição "Faculdades da Indústria (IEL)", em parceria com a Volkswagen do Brasil. Seu objetivo principal é solucionar o problema de falta de padronização e rastreamento das solicitações de ordens de serviço direcionadas aos ferramenteiros.
+  Este é um projeto acadêmico desenvolvido como parte de uma Jornada de Aprendizagem promovida pela instituição "UniSenai PR (IEL)", em parceria com a Volkswagen do Brasil. Seu objetivo principal é solucionar o problema de falta de padronização e rastreamento das solicitações de ordens de serviço direcionadas aos ferramenteiros.
 
   Tradicionalmente, essas solicitações eram feitas de forma verbal ou através de documentos físicos, chats e outros meios não padronizados. Portanto, buscamos apresentar uma solução que pudesse ser implementada com o menor custo possível, considerando o desenvolvimento, implementação e futuras manutenções.
 
   Com base nessas premissas, optamos por desenvolver o software utilizando a linguagem Visual Basic for Applications (VBA) e o banco de dados ACCESS para o cadastro de usuários e armazenamento das ordens de serviço. Essa escolha foi embasada no fato de que ambas as ferramentas fazem parte do pacote Office, amplamente utilizado no mercado de trabalho.
 
 # Aviso Legal
-**Importante**: Este projeto e os problemas abordados nele não são de forma alguma relacionados à empresa Volkswagen. Este projeto foi desenvolvido como um trabalho acadêmico para a disciplina de Engenharia de Software da instituição Faculdades da Indústria - IEL. Os problemas e necessidades mencionados são fictícios e foram criados apenas para fins educacionais e de aprendizado.
+**Importante**: Este projeto e os problemas abordados nele não são de forma alguma relacionados à empresa Volkswagen. Este projeto foi desenvolvido como um trabalho acadêmico para a disciplina de Engenharia de Software da instituição UniSenai PR - IEL. Os problemas e necessidades mencionados são fictícios e foram criados apenas para fins educacionais e de aprendizado.
 
 O objetivo deste projeto foi desenvolver um sistema de rastreamento e organização de ordens de serviço, baseado em VBA e utilizando o banco de dados ACCESS, como uma solução hipotética para melhorar a gestão das solicitações de ordens de serviço.
 
